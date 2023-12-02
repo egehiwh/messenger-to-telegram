@@ -6,7 +6,7 @@ services:
       - "./app:/usr/src/app"
       - /usr/src/app/node_modules
     environment:
-      - TELEGRAM_TOKEN=${TELEGRAM_TOKEN}
-      - TELEGRAM_CHAT_ID=${TELEGRAM_CHAT_ID}
-      - FB_EMAIL=${FB_EMAIL}
-      - FB_PASSWORD=${FB_PASSWORD}
+      - TELEGRAM_TOKEN=${5601784228:AAFFn9zbpzFqjCjhQt02gvNyG5QBFXvehYE}
+      - TELEGRAM_CHAT_ID=${5076609678}
+      - FB_EMAIL=${greatest730@gmail.com}
+      - FB_PASSWORD=${01015423088MMSSDD}
